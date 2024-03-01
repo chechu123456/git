@@ -1,3 +1,3 @@
 <?php
-    echo "Hello git 3! v login";
+    echo "Hello git 3! v3";
 ?>
